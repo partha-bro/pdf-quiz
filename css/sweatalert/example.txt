@@ -1,0 +1,6 @@
+swal({
+  title: "Error!",
+  text: i18n_3,
+  type: "error",
+  confirmButtonText: "OK"
+});

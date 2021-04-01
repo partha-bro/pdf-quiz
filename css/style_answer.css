@@ -1,0 +1,75 @@
+/* for mk_quiz.php*/
+body{
+	 background-color: #bfbfbf;
+	background-image: url(images/background.gif);
+    background-repeat: repeat;
+	height:92%;
+	width:100%;
+}
+.bodydiv{
+	background-color: white;
+	color:black;
+	margin:1%;
+	padding-bottom:1%;
+	padding-left:1%;
+	padding-right:1%;
+	height:100%;
+	width:98%;
+}
+table{
+	border-collapse:collapse;
+	height:90%;
+	width:100%;
+}
+.tablediv{
+	height:90%;
+}
+.tab_head{
+	height:10%;
+}
+.tab_head2{
+	height:20%;
+	width:150px;
+}
+.framediv{
+	float:right;
+	height:90%;
+	width:50%;
+}
+#pdf_view{
+	height:100%;
+	width:100%;
+}
+.buttondiv{
+	height:5%;
+	width:50%;
+}
+#btnsave{
+	float:left;
+	height:100%;
+	width:40%;
+}
+#btncancel{
+	float:right;
+	height:100%;
+	width:40%;
+}
+.classoption{
+	display: none;   
+}
+
+/* for student.php*/
+.buttondiv_std{
+	height:5%;
+	width:50%;
+}
+#btnsave_std{
+	float:left;
+	height:100%;
+	width:40%;
+}
+#btnstart_std{
+	float:right;
+	height:100%;
+	width:40%;
+}

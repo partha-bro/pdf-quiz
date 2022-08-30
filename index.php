@@ -40,7 +40,7 @@
                 window.location= "main.php";
             }
             function student(){
-                window.location= "http://parthainfo.epizy.com/pdf_quiz/student.php?id=formdata_5d81ea1021f9c";
+                window.location= "student.php?id=formdata_5d81ea1021f9c";
             }
         </script>
 	</body>
